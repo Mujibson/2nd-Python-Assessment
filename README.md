@@ -1,2 +1,2 @@
-# 2nd-Python-Assessment
- Second assessment
+# Weekly-Python-Assessments
+ iCode assessments
